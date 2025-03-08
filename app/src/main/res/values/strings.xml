@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">SimpleWeatherApp</string>
+    <string name="dashboard_title">Local weather</string>
+    <string name="today_hour">Today %1$s</string>
+    <string name="forecast_today">Today\'s forecast</string>
+    <string name="weather_conditions">Weather conditions</string>
+    <string name="air_pressure">Air pressure</string>
+    <string name="air_pressure_value_unit">%1$d hPa</string>
+    <string name="humidity">Humidity</string>
+    <string name="humidity_value_unit">%1$d %%</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="wind_speed_value_unit">%1$d km/h</string>
+    <string name="cloud_coverage">Cloud coverage</string>
+    <string name="cloud_coverage_value_unit">%1$d %%</string>
+    <string name="temperature_value_unit">%1$d °C</string>
 </resources>
