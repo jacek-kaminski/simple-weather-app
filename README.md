@@ -1,3 +1,3 @@
-Simple clean architecture weather application
+Simple clean architecture weather application.
 
-![simple_weather](https://github.com/user-attachments/assets/c0d1ef02-d56d-4a18-8519-014079ac1732)
+![image](https://github.com/user-attachments/assets/aa0903b0-fe60-40ba-8d07-9184ed44f0d2)
